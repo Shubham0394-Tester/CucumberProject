@@ -4,7 +4,7 @@ This project automates the login and logout scenarios on [Automation Exercise](h
 
 ## 📌 Project Overview
 
-This automation suite covers the following test scenarios:
+This automation test covers the following test scenarios:
 
 1. ✅ **Login with valid credentials**  
 2. ❌ **Login with invalid credentials**  
