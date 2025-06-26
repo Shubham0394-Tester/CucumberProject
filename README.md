@@ -23,7 +23,7 @@ This automation suite covers the following test scenarios:
     Then I should see Logged in as username
     Then Close the browser
 
-  Scenario: Login User with correct email and password
+  Scenario: Login User with incorrect email and password
    
     Given I should see the home page is visible
     And I click on the Signup Login button
